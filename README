@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5061
+
+Yoda-vim is a Vim plug-in for code completion using libclang. Yoda-vim's features are:
+
+* Fast code completion for C/C++ and Objective-C/C++.
+* Load compilation options using your python configuration file influenced by YouCompleteMe.
+* Jump to definition or declaration under the cursor of the editing file.
+* Show code diagnostics in Vim's quickfix-window or you can use it via API as you want.
+* Automatically insert variable segments, substring of text of candidate supporting snake case and camel case, by one keystroke in completion (Like XCode behaivior).
+* Support code snippets if you have installed ultisnips.
+* Works on python2 and python3.
+
+Enjoy!
+
+Github mirror: https://github.com/kyuhi/yoda.vim
